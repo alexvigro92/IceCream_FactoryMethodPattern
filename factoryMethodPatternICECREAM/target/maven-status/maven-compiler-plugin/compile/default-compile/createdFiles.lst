@@ -1,0 +1,12 @@
+mx\iteso\factory\ConeIceCream.class
+mx\iteso\factory\icecreams\IceCreamMangoMilk.class
+mx\iteso\factory\icecreams\IceCreamMangoWater.class
+mx\iteso\factory\IceCreamStore.class
+mx\iteso\factory\IceCreamMain.class
+mx\iteso\factory\icecreams\IceCreamGuavaMilk.class
+mx\iteso\factory\icecreams\IceCreamStrawberryWater.class
+mx\iteso\factory\icecreams\IceCreamStrawberryMilk.class
+mx\iteso\factory\icecreams\IceCreamGuavaWater.class
+mx\iteso\factory\icecreams\IceCreamPineappleMilk.class
+mx\iteso\factory\icecreams\IceCreamPineappleWater.class
+mx\iteso\factory\stores\IceCreamStoreOne.class
